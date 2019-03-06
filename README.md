@@ -1,4 +1,4 @@
-# smithatlanta.github.io
+# SmithAtlanta's Github Pages Page.
 
 This will be the place to help me track all the "code" I'm working on.  
 
